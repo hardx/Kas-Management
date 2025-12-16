@@ -125,6 +125,6 @@ Secara default, aplikasi menggunakan nama "Dyfhaa Print". Anda dapat menggantiny
 
 ![Hutang](screenshots/debts.png)
 
-```
+### Jurnal Besar
 
-```
+![Jurnal Besar](screenshots/ledger.png)
