@@ -120,3 +120,11 @@ Secara default, aplikasi menggunakan nama "Dyfhaa Print". Anda dapat menggantiny
 ### Manajemen Kategori
 
 ![Kategori](screenshots/categories.png)
+
+### Manajemen Hutang & Piutang
+
+![Hutang](screenshots/debts.png)
+
+```
+
+```
