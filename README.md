@@ -81,3 +81,24 @@ Akses aplikasi melalui browser di URL yang muncul (biasanya `http://localhost:51
 - **Kategori**: Kelola kategori transaksi.
 - **Hutang & Piutang**: Catat hutang piutang.
 - **Jurnal Besar**: Laporan lengkap semua transaksi.
+
+## Cara Mengganti Nama Toko (Dyfhaa Print)
+
+Secara default, aplikasi menggunakan nama "Dyfhaa Print". Anda dapat menggantinya dengan mengubah teks di 3 file berikut:
+
+1.  **Sidebar (Menu Samping)**
+
+    - Buka file: `src/components/Layout/Sidebar.tsx`
+    - Cari teks `Dyfhaa Print` (sekitar baris 30).
+    - Ganti dengan nama usaha Anda.
+
+2.  **Halaman Login**
+
+    - Buka file: `src/components/Auth/LoginForm.tsx`
+    - Cari teks `Dyfhaa Print` (sekitar baris 40).
+    - Ganti sesuai keinginan Anda.
+
+3.  **Halaman Dashboard**
+    - Buka file: `src/components/Dashboard/Dashboard.tsx`
+    - Cari teks `Ringkasan keuangan Dyfhaa Print` (sekitar baris 95).
+    - Ubah menjadi `Ringkasan keuangan [Nama Usaha Anda]`.
