@@ -102,3 +102,21 @@ Secara default, aplikasi menggunakan nama "Dyfhaa Print". Anda dapat menggantiny
     - Buka file: `src/components/Dashboard/Dashboard.tsx`
     - Cari teks `Ringkasan keuangan Dyfhaa Print` (sekitar baris 95).
     - Ubah menjadi `Ringkasan keuangan [Nama Usaha Anda]`.
+
+## Tampilan Aplikasi
+
+### Halaman Login
+
+![Login](screenshots/login.png)
+
+### Dashboard
+
+![Dashboard](screenshots/dashboard_2.png)
+
+### Daftar Transaksi
+
+![Transaksi](screenshots/transactions.png)
+
+### Manajemen Kategori
+
+![Kategori](screenshots/categories.png)
